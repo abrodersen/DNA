@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Common", "Common\Common.csproj", "{6C11483D-80A2-4D82-ADCE-5EDA36B369AF}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "DNASetup", "DNASetup\DNASetup.vdproj", "{F55E2C38-57FE-426D-9E41-CF000051BEBA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DNA", "DNA\DNA.csproj", "{66B9A3B5-F0FA-4545-AAD2-B272920859AD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6C11483D-80A2-4D82-ADCE-5EDA36B369AF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6C11483D-80A2-4D82-ADCE-5EDA36B369AF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6C11483D-80A2-4D82-ADCE-5EDA36B369AF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6C11483D-80A2-4D82-ADCE-5EDA36B369AF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F55E2C38-57FE-426D-9E41-CF000051BEBA}.Debug|Any CPU.ActiveCfg = Debug
+		{F55E2C38-57FE-426D-9E41-CF000051BEBA}.Release|Any CPU.ActiveCfg = Release
+		{66B9A3B5-F0FA-4545-AAD2-B272920859AD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{66B9A3B5-F0FA-4545-AAD2-B272920859AD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{66B9A3B5-F0FA-4545-AAD2-B272920859AD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{66B9A3B5-F0FA-4545-AAD2-B272920859AD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

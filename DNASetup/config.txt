@@ -1,0 +1,4 @@
+﻿;!@Install@!UTF-8!
+RunProgram="setup.exe"
+GUIMode="2"
+;!@InstallEnd@!
